@@ -1,3 +1,3 @@
 # bookbot
-My 1st project. Yay!
-Boots is MVP.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
