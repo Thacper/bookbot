@@ -1,2 +1,3 @@
 # bookbot
-1st project
+My 1st project. Yay!
+Boots is MVP.
